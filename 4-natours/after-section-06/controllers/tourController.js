@@ -93,6 +93,7 @@ exports.getAllTours = async (req, res) => {
     // // console.log(req.query, queryObj);
     // // req.query will return the object that will have the elements that we specify in
     // // get req url eg:{ duration: '5', difficulty: 'medium' }
+    // query
     console.log(queryObj);
     // // { duration: { gte: '7' }, difficulty: 'medium' }
 
